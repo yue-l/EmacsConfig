@@ -1,0 +1,29 @@
+
+;; ----- smex-history -----
+(
+ load-file
+ customize-face
+ list-faces-display
+ set-face-font
+ yas/create-php-snippet
+ comment-region
+ list-packages
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 10)
+ (load-file . 31)
+ (whitespace-cleanup . 3)
+ (yas-new-snippet . 7)
+ (comment-indent . 6)
+ (flush-lines . 3)
+ (comment-region . 2)
+ (scroll-all-mode . 6)
+ (yas-abort-snippet . 1)
+ (yas/create-php-snippet . 4)
+ (list-packages . 2)
+ (customize-face . 3)
+ (set-face-font . 1)
+ (list-faces-display . 1)
+)
